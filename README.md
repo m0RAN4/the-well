@@ -4,3 +4,7 @@
 游戏说明见压缩包内的游戏玩法说明.md
 
 Releases里有附件，是游戏运行本体，最新版本号对应最新更新/修复
+
+<img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/709c2847-8f98-43d5-ab77-7e087f7e8ca8" />
+
+<img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/e7193667-fa75-4b71-8727-df94f95b2db3" />
