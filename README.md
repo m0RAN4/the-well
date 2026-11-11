@@ -5,6 +5,6 @@
 
 Releases里有附件，是游戏运行本体，最新版本号对应最新更新/修复
 
-<img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/709c2847-8f98-43d5-ab77-7e087f7e8ca8" />
+<img width="2560" height="1440" alt="主页" src="https://github.com/user-attachments/assets/cfda14bf-38b8-4c03-aa54-e12051df800f" />
 
-<img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/e7193667-fa75-4b71-8727-df94f95b2db3" />
+<img width="2560" height="1440" alt="游戏界面" src="https://github.com/user-attachments/assets/cb72acaa-1fa5-4ac4-b284-3813b0457cdf" />
